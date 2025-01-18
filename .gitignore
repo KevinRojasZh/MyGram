@@ -34,4 +34,4 @@ __pycache__/
 env/
 
 frontend-mygram/
-
+*.txt
