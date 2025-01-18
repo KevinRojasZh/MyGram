@@ -32,3 +32,5 @@ __pycache__/
 *.sqlite3
 .env
 env/
+*.txt
+frontend-mygram/
