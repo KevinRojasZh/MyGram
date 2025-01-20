@@ -25,11 +25,14 @@ Thumbs.db
 # Docker
 *.pid
 <<<<<<< HEAD
+<<<<<<< HEAD
 env/
 frontend-mygram/
 instructions.txt
 =======
 >>>>>>> frontend
+=======
+>>>>>>> main
 
 # .gitignore
 venv/
@@ -37,6 +40,7 @@ __pycache__/
 *.pyc
 *.sqlite3
 .env
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> backend
 =======
@@ -50,3 +54,9 @@ dist/
 
 *.txt
 >>>>>>> frontend
+=======
+env/
+
+frontend-mygram/
+*.txt
+>>>>>>> main
