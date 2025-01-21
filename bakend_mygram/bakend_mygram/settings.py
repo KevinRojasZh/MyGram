@@ -58,7 +58,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # URL donde corre React
+    "http://localhost:5173",  # URL donde corre React
 ]
 
 
