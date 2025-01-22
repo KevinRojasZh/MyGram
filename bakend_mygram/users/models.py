@@ -8,7 +8,7 @@ class CustomUser(AbstractUser):
         null=True,
     )
             
-    profiel_picture = models.ImageField(
+    profile_picture = models.ImageField(
         upload_to='profile_pictures/', 
         height_field=None, 
         width_field=None,
